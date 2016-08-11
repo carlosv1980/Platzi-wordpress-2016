@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title><?php bloginfo(title); ?></title>
-</head>
+<?php get_header(home); ?>
 <body>
-  <h1><?php bloginfo(name); ?></h1>
-</body>
-</html>
+  <h1 class="page-heading max-width"><?php bloginfo(name); ?></h1>
+  <div class="grid max-width">
+    <div class="block grid--item-9">
+
+    </div>
+    <?php get_sidebar(); ?>
+
+    <?php get_footer(); ?>
+  
