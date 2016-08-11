@@ -1,4 +1,4 @@
-
+<footer class="max-width">
   <div class="block max-width">
     <div class="block__title">
       Footer
@@ -7,6 +7,7 @@
       <small>Footer Content</small>
     </div>
   </div>
-</div>
+</footer>
+<?php wp_footer(); ?>
 </body>
 </html>
