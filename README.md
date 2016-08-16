@@ -15,3 +15,7 @@ https://developer.wordpress.org/reference/functions/bloginfo/
 Listado de argumentos para pasar a WP_Query:
 http://www.billerickson.net/code/wp_query-arguments/
 https://codex.wordpress.org/Class_Reference/WP_Query
+
+
+--- Jerarquía de páginas en wordpress ---
+https://codex.wordpress.org/es:Template_Hierarchy
